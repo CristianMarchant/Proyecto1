@@ -45,6 +45,7 @@ p{
     position: relative;
     margin-left: auto;
     margin-right: auto;
+    
 }
 .video::after{
     content: "";
@@ -62,3 +63,56 @@ p{
 .textos{
     color: black;
 }
+.ej{
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.card{
+    min-height: 600px;
+}
+
+#tar1{
+    background-image: url("https://cdnx.jumpseller.com/importadora/image/21822190/set-vinilo-negro-pgp.jpg?1649369265");
+}
+
+#tar2{
+    background-image: url("https://cdnx.jumpseller.com/importadora/image/21823559/resize/400/500?1643464758");
+}
+
+#tar3{
+    background-image: url("https://cdnx.jumpseller.com/importadora/image/21822891/resize/400/500?1643464717");
+}
+#tar4{
+    background-image: url("https://cdnx.jumpseller.com/importadora/image/21822233/set-vinilo-verde-pgp.jpg?1644593158");
+}
+#tar5{
+    background-image: url("https://cdnx.jumpseller.com/importadora/image/21823596/ajedrez-dgt-box-brown.jpg?1643464762");
+}
+#tar6{
+    background-image: url("https://cdnx.jumpseller.com/importadora/image/21823521/resize/400/500?1643464758");
+}
+#tar7{
+    background-image: url("https://cdnx.jumpseller.com/importadora/image/21822197/ajedrez-dgt-eboard.jpg?1649380333");
+}
+#tar8{
+    background-image: url("https://cdnx.jumpseller.com/importadora/image/21822240/ajedrez-piezas-pesadas-pgp.jpg?1646051492");
+}
+#tar9{
+    background-image: url("https://cdnx.jumpseller.com/importadora/image/21822378/ajedrez-relo-dgt-2010.jpg?1651000008");
+}
+#tar10{
+    background-image: url("https://cdnx.jumpseller.com/importadora/image/21822779/ajedrez-relo-dgt-1002.jpg?1651000110");
+}
+#tar11{
+    background-image: url("https://cdnx.jumpseller.com/importadora/image/21823298/ajedrez-relo-dgt-pi.jpg?1643464743");
+}
+#tar12{
+    background-image: url("https://cdnx.jumpseller.com/importadora/image/21822377/ajedrez-relo-dgt-easy-plus.jpg?1643464672");
+}
+    
+
+
+
