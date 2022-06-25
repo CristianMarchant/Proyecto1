@@ -7,7 +7,7 @@ body {
     background-color: rgb(47, 81, 87);
 }
 h1{
-    color: darkblue;
+    color: rgb(21, 242, 242);
     text-align: center;
     padding: 5px;
 }
@@ -87,5 +87,7 @@ input::placeholder{
 input:focus::placeholder{
     opacity: 0;
 }
-
+.row p{
+    color: white;
+}
 
